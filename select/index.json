@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Achilles Heel",
+  "base_artist": "Toploader",
+  "createdAt": "2025-12-23T12:44:17.753381Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Achilles Heel",
+      "artist": "The Stranglers",
+      "has_synced": false,
+      "path": "select/01_Achilles_Heel_The_Stranglers.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Achilles Heel",
+      "artist": "MUTEMATH",
+      "has_synced": true,
+      "path": "select/02_Achilles_Heel_MUTEMATH.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Achilles Heel",
+      "artist": "J. Maya",
+      "has_synced": true,
+      "path": "select/03_Achilles_Heel_J._Maya.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Achilles Heel",
+      "artist": "Toploader",
+      "has_synced": true,
+      "path": "select/04_Achilles_Heel_Toploader.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Achilles Heel",
+      "artist": "Toploader",
+      "has_synced": true,
+      "path": "select/05_Achilles_Heel_Toploader.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Achilles' Heel",
+      "artist": "Kataklysm",
+      "has_synced": true,
+      "path": "select/06_Achilles'_Heel_Kataklysm.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Achilles Heel",
+      "artist": "Dynazty",
+      "has_synced": true,
+      "path": "select/07_Achilles_Heel_Dynazty.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Achilles' Heel",
+      "artist": "Slowly Slowly",
+      "has_synced": false,
+      "path": "select/08_Achilles'_Heel_Slowly_Slowly.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Achilles Heel",
+      "artist": "Master Peace",
+      "has_synced": true,
+      "path": "select/09_Achilles_Heel_Master_Peace.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Achilles Heel",
+      "artist": "Michael Sweet",
+      "has_synced": false,
+      "path": "select/10_Achilles_Heel_Michael_Sweet.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Achilles Heel",
+      "artist": "Ella Hooper",
+      "has_synced": true,
+      "path": "select/11_Achilles_Heel_Ella_Hooper.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Achilles Heel",
+      "artist": "Toploader",
+      "has_synced": false,
+      "path": "select/pl_01_Achilles_Heel_Toploader.txt"
+    }
+  ]
+}
