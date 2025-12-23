@@ -1,0 +1,54 @@
+# Toploader – Achilles Heel
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:11.11] Goodbye to the sky
+[00:14.37] I know I can't fly but I feel love do you know
+[00:17.23] How I feel?
+[00:19.11] You are my achilles heel
+[00:22.58] Hello to below
+[00:24.85] I feel love flow like a river flow you and I
+[00:28.03] Standing still
+[00:30.31] You are my achilles heel
+[00:42.31] 
+[00:44.25] Feeling free yeah what about me?
+[00:46.81] Well you gotta give it up coz I feel love do you know
+[00:50.07] How I feel?
+[00:51.91] You are my achilles heel
+[00:54.87] Goodbye to the sky
+[00:57.78] I know I can't fly but I feel love do you know
+[01:00.90] How I feel?
+[01:02.77] You are my achilles heel
+[01:14.77] 
+[01:05.60] 1: For there's a child in your eyes and the child never dies
+[01:11.24] To keep the dream alive
+[01:15.92] With the aid of second sight
+[01:19.31] I can push with all my might
+[01:22.08] To make a statue in the sky
+[01:26.20] Of my achilles heel
+[01:35.70] 
+[01:40.05] Small fry don't know why
+[01:43.06] Gotta get high just to love life
+[01:45.36] You are my highs and lows from my head to my toes
+[01:50.76] I said hey la
+[01:52.09] Will I go far?
+[01:53.93] Will I go far - cos I love life
+[01:56.13] Do you know how I feel?
+[01:58.53] You are my achilles heel
+[02:01.38] I said Oh no no
+[02:03.54] Will I go slow?
+[02:04.40] Now will I go slow?
+[02:06.43] When the feeling flows
+[02:17.43] 
+[02:24.53] Repeat 1
+[02:28.53] 
+[02:55.79] Well you're feeling free
+[03:06.97] So what about me?
+[03:17.65] I said hello and goodbye
+[03:22.89] But I don't know why
+[03:28.24] Well while we're small fry
+[03:33.88] On the line
+[03:39.67] With my achilles heel
+[03:46.36] Achilles heel etc (- to fade)
+```
